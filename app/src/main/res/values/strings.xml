@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="btn_ok">OK</string>
+    <string name="lbl_label1">Please enter your name:</string>
+    <string name="txt_name" />
+    <string name="btn_ok2">OOKK</string>
+    <string name="lbl_showtext" />
+</resources>
